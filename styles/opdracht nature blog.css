@@ -1,0 +1,30 @@
+body{
+    margin: 0 auto;
+    width: 1200px;
+}
+#achtergrond{
+    background-image: url("../images/header.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    height: 110px;
+    width: auto;
+    font-size: 35px;
+}
+#navigatie{
+    background-color: gray;
+    width: auto;
+    margin-bottom: 5px;
+}
+#navigatie a{
+    color: lightgreen;
+}
+.blokken{
+    background-color: lightgray;
+    padding-top: 5px;
+    margin-bottom: 5px;
+}
+.blokken header{
+    color: gray;
+    font-size: 30px;
+    text-decoration-line: underline;
+}
